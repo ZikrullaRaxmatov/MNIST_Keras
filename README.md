@@ -12,3 +12,4 @@ Be aware that your images have to have a black background and white line color!
 Furthermore your images resolution has to be 28x28px. The line width has to be thick enough to be recognized as a digit.
 
 This CNN model achieves up to 98.7% of accuracy and the structure is as follows:
+![image](https://github.com/user-attachments/assets/b37e938c-6c5f-4c2f-bcce-e3192f058d82)
